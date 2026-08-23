@@ -1,12 +1,11 @@
 Study-Focus 
-A clean, personal app to help me stay on top of my studies and deadlines. 📚 
+A clean, personal app to help  stay on top  studies and deadlines. 📚 
 
 Features :
-📅 Smart Calendar: Keeps all my tasks and deadlines organized. 
+📅 Smart Calendar
+📈 Progress Tracking
 
-📈 Progress Tracking: Helps me visualize my daily study habits. 
-
-⚡ SwiftUI Powered: Smooth, fast, and distraction-free. 
+⚡ SwiftUI Powered
 
 Built with Swift & SwiftUI. Suggestions are welcome!
 <img width="1206" height="2622" alt="Simulator Screenshot - iPhone 17 Pro - 2026-07-11 at 16 21 00" src="https://github.com/user-attachments/assets/beed8437-32df-4a1f-9e3d-a8267e98d44a" />
